@@ -1,2 +1,2 @@
 # Hi, im Sparkly!
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sprkldv&layout=compact&theme=vision-glow)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,cpp,linux,git)](https://skillicons.dev)
