@@ -1,3 +1,2 @@
 # Hi, im Sparkly!
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sprkldv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprkldv&layout=compact&theme=vision-glow)
