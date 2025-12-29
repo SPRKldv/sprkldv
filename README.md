@@ -1,2 +1,6 @@
 # Hi, im Sparkly!
-[![My Skills](https://skillicons.dev/icons?i=oy,csharp,js,linux,git)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,dotnet,git,linux,vscodium&perline=3" />
+  </a>
+</p>
